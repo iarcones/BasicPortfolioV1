@@ -20,7 +20,7 @@ comming soon new projects
 
 ## Authors
 
-* **Isabel Arcones** - *Initial work* - [Basic-Portfolio](https://github.com/iarcones/Basic-Portfolio)
+* **Isabel Arcones** - *Initial work* - [Basic-Portfolio](https://github.com/iarcones/BasicPortfolioV1)
 
 
 
